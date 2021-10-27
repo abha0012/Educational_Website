@@ -1,0 +1,19 @@
+.about_box1{
+    background-color: #446CB7;
+    height: 600px;
+    color: white;
+}
+.textbox1{
+    padding-top:100px;
+    margin-left:300px;
+    margin-right: 300px;
+    color: black;
+    font-weight: normal;
+}
+.textbox2{
+    padding-top:40px;
+    margin-left:300px;
+    margin-right: 300px;
+    color: black;
+    font-weight: normal;
+}
